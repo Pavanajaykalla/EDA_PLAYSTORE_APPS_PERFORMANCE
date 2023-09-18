@@ -67,9 +67,16 @@ The upper fences for all the categories get capped at 5.0, whereas there are som
 **summary of case study:**
 
 >First, we did a fair bit of data handling and cleaning - cleaning junk records, adding missing values, changing data types, remove outliers, etc.
+
 >When we analysed the ratings using the histogram, we saw that they are skewed towards higher ratings.
+
 >Using a bar chart, we saw that most of the apps belong to the Everyone category.
+
+
 >We also observed a weak trend between the ratings and the size of the app, using a scatter-plot. We also briefly forayed to reg plots to understand its nuances.
+
 >Using a pair-plot, we were able to see multiple scatter plots and draw several inferences, for example, price and rating having very weak trend, reviews and price being inversely related and so on.
+
 >After that, we utilised estimator functions along with bar plots as well as box plots to observe the spread of ratings across the different Content Rating Categories. Here, our main observation was that Everyone category has a lot of apps having very low ratings.
+
 >Finally, we created a heat map comparing the ratings across different Reviews and Content Rating buckets.
